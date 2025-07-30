@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="76.980659mm"
+   height="22.12426mm"
+   viewBox="0 0 76.980659 22.12426"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer1"
+     transform="translate(-2.9312621,-2.6620247)">
+    <path
+       style="fill:#5c68e9;stroke:none"
+       d="m 7.4713721,2.6620247 c -5.291041,0 -4.497916,4.942813 -4.497916,6.652803 0,2.0435303 0.131641,11.9495603 0.134435,12.0335703 0.132659,3.98933 4.650573,3.41117 5.096742,3.40582 2.3245679,-0.0279 10.3313729,-0.0285 12.1039389,-0.0285 2.996464,0 5.100268,-1.41734 5.100268,-4.64715 0,-0.81519 -0.01343,-10.1662303 -0.01343,-10.8220103 0,-2.1494 0.362129,-6.591883 -4.526689,-6.591883 -4.547028,0 -7.551076,0.0217 -9.164016,0.0217 m 7.14375,5.359303 c -0.253972,-0.87736 -1.097756,-1.6418 -0.705556,-2.64584 0.367709,-0.941333 2.15381,-1.173013 2.689931,-0.26458 0.719477,1.21911 -0.780855,2.10487 -0.617362,3.175 0.137478,0.89985 1.165704,1.7395603 1.455209,2.6458303 0.141234,0.44213 0.04308,0.87385 0.396875,1.23473 0.620161,0.63256 1.610003,0.80168 1.499307,1.94027 -0.09943,1.02264 -1.138632,1.32812 -1.5875,2.11667 -0.523961,0.92047 -0.490111,2.03249 -1.322917,2.82222 -1.187886,1.12644 -2.932377,1.2632 -4.45382,1.41111 -2.595906,0.25238 -6.2381299,0.30315 -8.4666669,-1.41111 -1.002618,-0.77124 -0.880837,-1.86493 -1.455209,-2.82222 -0.634459,-1.05743 -1.907211,-1.35447 -1.411111,-2.91042 0.257386,-0.80725 1.163179,-0.87178 1.543403,-1.5875 0.539719,-1.01594 0.566678,-2.0824903 1.5875,-2.8222203 2.8082199,-2.03494 7.6971579,-1.794 10.8479169,-0.88194 m -6.614583,1.41111 c -0.999559,0.19436 -2.3337789,0.3591 -3.1309029,1.0583303 -1.410808,1.23755 -1.551017,5.63683 -0.220486,6.96736 1.5942379,1.59424 6.0722469,1.48368 8.1138889,1.05833 0.797863,-0.16622 1.762584,-0.34516 2.337152,-0.97013 1.287532,-1.40048 1.242741,-5.66577 -0.0441,-7.05556 C 17.900721,9.0153177 14.076628,9.0984677 12.233868,9.4567877 m 3.704166,2.5576403 c -0.584411,1.48051 -1.986353,3.92354 -3.704166,3.96875 0.705381,-1.41077 2.013972,-3.92427 3.704166,-3.96875 m -4.233333,0.52916 -1.058334,1.32292 v 0.26458 l 1.058334,1.32292 -2.3812499,-1.05833 2.3812499,-1.85209 m 7.14375,1.05834 c -0.128502,1.18864 -1.254634,1.73349 -2.38125,1.85208 l 1.058337,-1.32293 v -0.26458 l -1.058333,-1.32292 z"
+       id="path7735" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:12.7px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial Heavy';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#cccbd0;fill-opacity:1;stroke:#b7b7b7;stroke-width:0.27;stroke-dasharray:none;stroke-opacity:1"
+       x="29.752638"
+       y="18.156139"
+       id="text11494"
+       transform="scale(1.0222243,0.97825889)"><tspan
+         id="tspan11494"
+         x="29.752638"
+         y="18.156139"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:1;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;fill:#cccbd0;fill-opacity:1;stroke:#b7b7b7;stroke-width:0.27;stroke-dasharray:none;stroke-opacity:1"
+         dx="0">Boot</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.7px;line-height:1;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#7f86fb;fill-opacity:1;stroke:#666666;stroke-width:0.264583;stroke-opacity:0.7"
+       x="57.368603"
+       y="17.924665"
+       id="text11495"><tspan
+         id="tspan11495"
+         style="fill:#7f86fb;fill-opacity:1;stroke:#666666;stroke-width:0.264583;stroke-opacity:0.7"
+         x="57.368603"
+         y="17.924665">.dev</tspan><tspan
+         style="fill:#7f86fb;fill-opacity:1;stroke:#666666;stroke-width:0.264583;stroke-opacity:0.7"
+         x="57.368603"
+         y="30.624664"
+         id="tspan11496" /></text>
+  </g>
+</svg>
