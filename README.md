@@ -60,6 +60,7 @@ wishlist(todo):<br>
 
 [(Back to top)](#table-of-contents)
 ## Screenshots
+!placeholder!
 <img src="https://raw.githubusercontent.com/Hapkin/45min-focus-planner/main/img/void2.png" alt="Void preview" style="pointer-events: none; max-width: 100%; height: auto;">
 [(Back to top)](#table-of-contents)
 
