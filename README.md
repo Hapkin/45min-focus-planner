@@ -10,6 +10,7 @@ there will be some <a>#examples</a> posted later on
 
 <p align="left">
   <a href="#"><img src="https://img.shields.io/badge/%F0%9F%90%8D-python-6ED91F"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Kivy-6ED91F"></a>
   <a href="#"><img src="https://img.shields.io/badge/%E2%8A%9Ewindows-widget-blue"></a>
   <a href="https://github.com/hapkin/45min-focus-planner/stargazers"><img src="https://img.shields.io/github/stars/Hapkin/45min-focus-planner"></a>
   &emsp;<a href="https://www.boot.dev/"><img src="https://github.com/Hapkin/45min-focus-planner/blob/main/img/test.svg" width="80" height="30"></a>
