@@ -28,7 +28,6 @@ wishlist(todo):<br>
 - [Features](#nice-features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [Screenshots](#screenshots)
 - [License](#license)
 ## Nice features
@@ -36,28 +35,15 @@ wishlist(todo):<br>
     (don't feel bad about it, no one can track everything perfect.)
   
 
+## installation
+  [(Back to top)](#table-of-contents)
 
-
-## other
-
+## usage
+  [(Back to top)](#table-of-contents)
+  
 - tada
   ```<code> ```
   [(Back to top)](#table-of-contents)
-## other
-
-[(Back to top)](#table-of-contents)
-## other
-
-[(Back to top)](#table-of-contents)
-## other
-
-[(Back to top)](#table-of-contents)
-## other
-
-[(Back to top)](#table-of-contents)
-## other
-[(Back to top)](#table-of-contents)
-## other
 
 [(Back to top)](#table-of-contents)
 ## Screenshots
