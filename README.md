@@ -15,7 +15,7 @@ there will be some <a>#examples</a> posted later on
   <a href="https://github.com/hapkin/45min-focus-planner/stargazers"><img src="https://img.shields.io/github/stars/Hapkin/45min-focus-planner"></a>
   &emsp;<a href="https://www.boot.dev/"><img src="https://raw.githubusercontent.com/Hapkin/45min-focus-planner/HEAD/img/test.svg" width="80" height="30"></a>
 </p>
-wishlist(todo):<br>
+wishlist(todo once all works... as intended...):<br>
 <img src="https://img.shields.io/badge/📱%F0%9F%90%A7-Android-purple">
 <div style="height: 100vh;"></div>
 <h2 style="margin-top: 10px;">Space</h2>
