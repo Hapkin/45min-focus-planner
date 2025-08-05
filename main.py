@@ -26,8 +26,9 @@ class main_kv(GridLayout):
 
 def style_gridlayout(grid):
     with grid.canvas.before:
-        Color(1,0,0,1)
-        Line(width= 2, rectangle= (grid.x, grid.y, grid.width, grid.height))
+        pass
+        #Color(1,0,0,1)
+        #Line(width= 2, rectangle= (grid.x, grid.y, grid.width, grid.height))
 
 # Create App class
 class MainApp(App):
