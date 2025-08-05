@@ -1,0 +1,24 @@
+#main sturcture
+#just 3 rows with min info: menu;body
+
+<main_kv@GridLayout>:
+    rows: 3
+    canvas.before:
+        Color:
+            rgba: 1, 0, 0, 1
+        Line:
+            width: 2
+            rectangle: self.x, self.y, self.width, self.height
+
+    Menu:
+        size_hint_y: None
+        height: "30dp"  
+
+    Body:
+        size_hint_y: None
+        height: self.minimum_height  # Adjust height based on content
+
+    Bottom: 
+        size_hint_y: None
+        height: "25dp"  
+

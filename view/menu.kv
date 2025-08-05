@@ -1,0 +1,21 @@
+<Menu@BoxLayout>:
+    orientation: 'horizontal'
+    padding: [10, 0, 10, 0] 
+
+
+    ActionBar:
+        use_separator: True
+        title: "Menu"
+        
+
+        ActionView:
+            ActionPrevious: #(<- button)
+                title: 'menu'
+                with_previous: False
+                
+            ActionButton:
+                icon: 'img/void2.png'
+
+            ActionButton:
+                text: 'Exit'
+                on_press: app.on_exit()
