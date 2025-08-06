@@ -3,16 +3,23 @@
 
 <main_kv@GridLayout>:
     rows: 3
+    canvas.before:
+        Color:
+            rgba: (20/255),(80/255),(20/255),1
+        Rectangle:
+			pos: self.pos
+			size: self.size
+
 
     Menu:
-        size_hint_y: None
+        size_hint_y: 0.15
         height: "30dp"  
 
     Body:
-        size_hint_y: None
+        size_hint_y: 1
         height: self.minimum_height  # Adjust height based on content
 
     Bottom: 
-        size_hint_y: None
+        size_hint_y: 1
         height: "25dp"  
 
