@@ -3,6 +3,7 @@ from kivy.app import App
 from kivy.lang import Builder
 from kivy.clock import Clock
 from kivy.core.window import Window
+from kivy.metrics import dp
 
 import configuration as c
 from handler.gui_classes import main_kv
@@ -16,7 +17,7 @@ Builder.load_file('view/bottom.kv')
 Builder.load_file('view/_main.kv')
 
 
-Window.size = (c.SIZE_WINDOW_X,c.SIZE_WINDOW_Y)
+Window.size = (dp(c.SIZE_WINDOW_X),dp(c.SIZE_WINDOW_Y))
 
 
 # Create App class

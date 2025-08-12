@@ -2,6 +2,21 @@ import kivy as k
 from kivy.uix.widget import Widget
 from kivy.graphics import Color, Rectangle,Line
 
+
+## with AI help: this function will try to set a property of an inherited super()
+# without having to know how deep the 'rabbit hole' goes
+def set_property(instance, property_name, value):
+    """Set a property in the inheritance chain of the given instance."""
+    for cls in type(instance).mro():
+        if property_name in cls.__dict__:
+            prop = cls.__dict__[property_name]
+            if isinstance(prop, property):
+                prop.__set__(instance, value)
+                return
+    raise AttributeError(f"{property_name} not found in the inheritance chain.")
+
+
+
 def my_callback(obj):
     #print('renew settings of self canvas: (borders)!')
     toggle_borders(obj, True)

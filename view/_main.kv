@@ -17,9 +17,11 @@
 
     Body:
         size_hint_y: 1
-        height: self.minimum_height  # Adjust height based on content
+        height: self.parent.height - self.parent.children[0].height - self.parent.children[1].height  
+        # Calculate height based on parent
 
     Bottom: 
-        size_hint_y: 1
-        height: "25dp"  
+        size_hint_y: 0.10
+        height: "20dp"  
+
 
