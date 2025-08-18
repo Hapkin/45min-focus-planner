@@ -1,4 +1,4 @@
-<h1>WIP!</h1>
+<h1>WIP!: not in state to run yet...</h1>
 <h1 align="left">&emsp;45min-focus-planner</h1>
 <p>
 purpose: a full dayplanner, but with timers build in... <br>
@@ -16,7 +16,17 @@ there will be some <a>#examples</a> posted later on
   <a href="https://github.com/hapkin/45min-focus-planner/stargazers"><img src="https://img.shields.io/github/stars/Hapkin/45min-focus-planner"></a>
   &emsp;<a href="https://www.boot.dev/"><img src="https://raw.githubusercontent.com/Hapkin/45min-focus-planner/HEAD/img/test.svg" width="80" height="30"></a>
 </p>
-wishlist(todo once all works... as intended...):<br>
+wishlist(todo... after first functioning version):<br>
+<li>
+  <ul>adjust visual style to represent correctly</ul>
+  <ul>create configuration page</ul>
+  <li>
+    <ul>adjust location on the screen</ul>
+    <ul>adjust My_Clock (the working houre)</ul>
+    <ul>adjust zoomlevel (how many houres get focus)</ul>
+  </li>
+  <ul>zoom-button on menubar</ul>
+</li>
 <img src="https://img.shields.io/badge/📱%F0%9F%90%A7-Android-purple">
 <div style="height: 100vh;"></div>
 <h2 style="margin-top: 10px;">Space</h2>
