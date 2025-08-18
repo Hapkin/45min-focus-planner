@@ -5,10 +5,11 @@ from kivy.uix.label import Label
 from kivy.metrics import dp
 from kivy.properties import NumericProperty
 
+
 from configuration import SIZE_WINDOW_Y, SIZE_WINDOW_X
 from handler.gui_def import set_property
+from handler.gui_all import refresh_layout
 
-#from handler.my_time import add_block
 
 
 
@@ -24,7 +25,7 @@ class main_kv(GridLayout):
 class Body(GridLayout):
     #height=NumericProperty(0)
     def __init__(self, **kwargs):
-        super(Body, self).__init__(**kwargs)
+        super().__init__(**kwargs)
         self.border_lines = []
         # 55 is the size of menu and bottom
         #set_property(self, 'height', SIZE_WINDOW_Y-55)
@@ -43,7 +44,7 @@ class Bottom(BoxLayout):
 
 class My_Time(BoxLayout):
     def __init__(self, **kwargs):
-        super(My_Time, self).__init__(**kwargs)
+        super().__init__(**kwargs)
         #self.container = [] => children already exists!
         print("My_Time: initiated")
         self.name="My_Time"
@@ -58,11 +59,15 @@ class My_Time(BoxLayout):
         print(f"Button: add block is pressed! canvas:{self.name}")
         new_label=Button(text=f"Label{len(self.children)}",size_hint_y=None,height="15dp")
         self.add_widget(new_label, index=1)
+        refresh_layout(self)
         
             
 
 class My_Clock(BoxLayout):
     def __init__(self, **kwargs):
-        super(My_Clock, self).__init__(**kwargs)
+        super().__init__(**kwargs)
         self.container = []     
-        print("My_Clock: initiated")     
+        print("My_Clock: initiated")
+    
+    
+         

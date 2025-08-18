@@ -2,9 +2,12 @@ import kivy as k
 from kivy.uix.widget import Widget
 from kivy.graphics import Color, Rectangle,Line
 
+#from handler.gui_all import refresh_layout
+
 
 ## with AI help: this function will try to set a property of an inherited super()
 # without having to know how deep the 'rabbit hole' goes
+# ATM: no longer in use
 def set_property(instance, property_name, value):
     """Set a property in the inheritance chain of the given instance."""
     for cls in type(instance).mro():
@@ -53,3 +56,6 @@ def toggle_borders(obj, enable=True):
                 #myline=Line(points=[0, prev_rowheight, obj.width,prev_rowheight], width=3)
                 obj.border_lines.append(line_under)
                 obj.border_lines.append(line_up)
+
+def dunno():
+    pass
